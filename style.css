@@ -1,0 +1,22 @@
+.popup-btn {
+	cursor: pointer;
+}
+
+.popup-container {
+	display: none;
+}
+
+.popup-content {
+	text-align: center;
+	margin:40px auto 0px auto;
+    width:30%;
+    height:30%;
+    padding:20px;
+    background-color: #c5c5c5;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.active {
+	display: block;
+}
